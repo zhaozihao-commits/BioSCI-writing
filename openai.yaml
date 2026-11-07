@@ -1,4 +1,0 @@
-interface:
-  display_name: "SCI Manuscript Writing"
-  short_description: "精准SCI写作、返修与终稿核查"
-  default_prompt: "Use $sci-manuscript-writing to revise or audit this SCI manuscript according to my established writing standards. Keep experimental facts unchanged, match the strength of conclusions to the evidence, and flag every unverified item."
